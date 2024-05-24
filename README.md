@@ -1,5 +1,5 @@
-# elidelgad.github.io
-Professional Account
+theme: jekyll-theme-minimal
+title: Resume Elizabeth Delgado
 
 Elizabeth Delgado
 Vienna, Virginia, US. 
@@ -9,7 +9,7 @@ eliza.delgad@gmail.com
 
 Data Engineer/Analyst with seven years of progressive experience and skilled at: 
 
-Technical: Extract, organize, and integrate data from disparate sources (RDBMS – Oracle Databases, IBM Db2 Warehouse on Cloud). Set up and manage the infrastructure required for the ingestion, processing, and storage of data.  Data cleaning, Analysis and visualization. 
+Technical: Extract, organize, and integrate data from disparate sources (RDBMS – Oracle Databases, IBM Db2 Warehouse on Cloud). Set up and managed the infrastructure required for the ingestion, processing, and storage of data.  Data cleaning, Analysis, and visualization. 
 Functional: Convert business requirements into technical specifications and work with the complete software development lifecycle (Ideation, architecture, design, prototyping, testing, deployment, and monitoring).
 Understanding the risks of poor data management, quality, privacy, security, and compliance.
 Soft: Detail-orientated, effective communication and collaboration with teamwork and external stakeholders.
@@ -27,15 +27,15 @@ George Mason University, Fairfax, VA
 
 Research Data Analyst							Nov. 2019 – Jan 2022
 University of Maryland, College Park, MD
-•	Designed, develop, and maintain the data extraction SQL queries using Hyperion/Procedural Language and Salesforce to query 5TB of UMD student data management system warehouse.
-•	Solve complex data driven decision problems that helped the university leadership make timely decision on recruitments, admissions and financial aid offers to thousands of undergraduate students that improved the decision-making processes by 5%.
+•	Designed, developed, and maintained the data extraction SQL queries using Hyperion/Procedural Language and Salesforce to query 5TB of UMD student data management system warehouse.
+•	Solve complex data-driven decision problems that helped the university leadership make timely decisions on recruitments, admissions, and financial aid offers to thousands of undergraduate students, improving the decision-making processes by 5%.
 •	Implemented Data Quality checks and assurance using SAS data management and Hyperion/Oracle tools to improve the quality of the university data warehouse.
 •	Created periodic reports providing insights and recommendations on funding, admissions, and financial aids to decision makers by querying the AWS Redshift Data warehouse of the university financial data.
 
 Research Analyst
 Division of Economics and Society, University of Guadalajara, Mexico Jan. 2015 – Jan. 2018	
 •	Built econometric models and indexes to present novel solutions for a rising debt crisis in local governments across Mexico. 
-•	Used ArcGIS georeferencing tool to visualize data to identify the right municipalities in need of state assistance.
+•	Used ArcGIS georeferencing tool to visualize data to identify the right municipalities needing state assistance.
 •	Published and presented research findings in peer-reviewed journals and conferences on improving the effectiveness of public policy on local governments
 
 EDUCATION.
